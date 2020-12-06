@@ -2,14 +2,16 @@
 
 ---
 
-## Grain Bill
+## Mash (60 mins; 152°F)
 - Marris Otter: 6.5 lbs
 - White Wheat: 1.5 lbs
 - CaraMunic II Weyermann: 1 lb
 - UK Chocolate: 0.75 lb
 - UK Roasted Barley: 0.5 lb
 
-## Boil
+Targeting ~75% efficiency.
+
+## Boil (60 mins)
 - Magnum: 0.75oz (60 mins)
 - Lactose: 0.5 lb (10 mins)
 - Whirlfloc: 1 tab (10 mins)
