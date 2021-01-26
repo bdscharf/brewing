@@ -22,4 +22,4 @@ Targeting ~75% efficiency.
 
 ---
 
-Original Gravity: 1.051
+Original Gravity: 1.0519
