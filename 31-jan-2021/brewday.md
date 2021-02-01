@@ -12,7 +12,8 @@ Targeting ~75% efficiency.
 ## Boil (90 mins)
 - Crystal: 0.5 oz (60 mins)
 - Willamette: 0.5 oz (60 mins)
-- Whirlfloc: 0.5 tab (5 mins)
+- Whirlfloc: 1 tab (10 mins)
+- Yeast nutrient: 1 tsp (10 mins)
 
 ## Yeast
 - Wyeast 1056 - American Ale
