@@ -1,7 +1,5 @@
 # 21 February 2021 - Brew Day
 
----
-
 ## Mash (60 mins; 155°F)
 - 2-row: 11 lbs
 - Malted oats: 4.5 lbs
@@ -30,10 +28,14 @@ Original Gravity: 1.091
 
 # 28 February (+7 days)
 
----
-
 ## Additions
 - 1 lb coconut (toasted, 325°F, 20 mins, stir halfway)
 - 5 oz cacao nibs, in 10 oz bourbon (infused 7 days)
 - 1.5 teaspoon vanilla extract
+
+---
+
+Final Gravity: 1.029
+
+Estimated ABV: 8.14%
 
