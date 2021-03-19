@@ -22,3 +22,7 @@ Targeting ~75% efficiency.
 ---
 
 Original Gravity: 1.041
+
+Final Gravity: 1.002
+
+Estimated ABV: 5.12%
